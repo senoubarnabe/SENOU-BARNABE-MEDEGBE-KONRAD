@@ -1,0 +1,1 @@
+ /home/barnab/cand/.dart_tool/flutter_build/e79f367727f35560d56a894c94d36ce2/native_assets.yaml: 
